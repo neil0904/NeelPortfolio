@@ -1,0 +1,43 @@
+{
+  "about": [
+     {
+    "desc": "I am a passionate and dedicated web developer, programmer, and freelancer, eager to make my mark in the digital realm. As a web developer, I bring a fresh perspective, a hunger for knowledge, and a drive to create innovative and user-friendly web experiences. With a solid foundation in HTML5, CSS3, dotnet core (MVC, Restful API, Web API), JavaScript, and I am currently learning and practicing Angular as well. Furthermore, I specialize in crafting visually appealing and responsive websites that engage and captivate users. I am adept at translating design concepts into functional code, ensuring seamless navigation and optimal performance across various devices and browsers. Driven by curiosity and a love for problem-solving, I thrive on tackling complex challenges and finding efficient solutions. Through continuous learning and staying updated with the latest industry trends and best practices, I strive to deliver cutting-edge websites that exceed client expectations. My commitment to quality and attention to detail are at the core of my work ethic. I take pride in writing clean, efficient, and maintainable code that not only meets industry standards but also ensures scalability and flexibility for future enhancements. I am excited about the opportunity to work on challenging projects, collaborate with like-minded individuals, and contribute my skills and creativity to make a positive impact in the digital landscape. Thank you for visiting my portfolio website, and I look forward to connecting with you and bringing your web development projects to life."
+  }
+  ],
+  "technicalSkills": [
+    { "name": "HTML5", "percent": "90%" },
+    { "name": "CSS3/SASS/SCSS", "percent": "65%" },
+    { "name": "JavaScript(ES6)", "percent": "40%" },
+    { "name": "JQuery", "percent": "30%" },
+    { "name": "Bootstrap5", "percent": "85%" },
+    { "name": "NodeJS", "percent": "10%" },
+    { "name": "Angular", "percent": "10%" },
+    { "name": "Asp Dotnet core", "percent": "50%" },
+    { "name": "OOP", "percent": "70%" },
+    { "name": "github", "percent": "60%" },
+    { "name": "Figma to HTML", "percent": "90%" }
+
+  ],
+    "professionalSkills": [
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" },
+    { "name": "a comment about post 1", "percent": "1" }
+
+  ],
+  "projects":[
+  
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+   "contactMe":[
+    []
+    ]
+  
+
+}

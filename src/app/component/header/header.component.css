@@ -1,0 +1,27 @@
+.navbar-style{
+    box-shadow: 0 5px 10px rgb(124, 120, 120);
+}
+
+.nav {
+   padding-top: 0px 20px; 
+}
+
+li a{
+    color: gray;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+li a:hover{
+    color: rgb(189, 152, 224); 
+    text-decoration: underline; 
+ }
+
+li .active{
+     color: rgb(189, 152, 224);  
+     text-decoration: underline;
+ }
+
+
+.icon-bar{
+    background: rgb(189, 152, 224);
+}

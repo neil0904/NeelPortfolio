@@ -1,0 +1,7 @@
+
+#home img{
+    height: 50vh;
+    width: 70%;
+    box-shadow: 25px 25px 15px gray;
+    border-bottom-left-radius: 45px;
+}

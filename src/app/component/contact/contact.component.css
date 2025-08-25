@@ -1,0 +1,33 @@
+
+h1, p{
+  color: rgb(213, 211, 210);
+}
+.card{
+  border: 1px solid  rgb(213, 211, 210);
+  margin-top: 120px;
+}
+.card-btn{
+     background-color: rgb(213, 211, 210);
+    color: black;
+     margin: 30px 10px;
+    width: 180px;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+.form-control{
+    background: transparent;
+}
+  ::placeholder {
+    color: rgb(213, 211, 210);
+    opacity: 1; 
+  }
+
+  /* For better cross-browser support */
+  :-ms-input-placeholder {
+    color: rgb(213, 211, 210);
+  }
+
+  ::-ms-input-placeholder {
+    color: rgb(213, 211, 210);
+  }

@@ -1,0 +1,6 @@
+/* Remove Bootstrap gradient and apply custom color */
+.no-gradient {
+  background-color: rgba(255, 255, 255, 0.6) !important;
+  background-image: none !important;  /* Critical: disables the default Bootstrap gradient */
+  color: #000; /* Optional: makes text visible */
+}
